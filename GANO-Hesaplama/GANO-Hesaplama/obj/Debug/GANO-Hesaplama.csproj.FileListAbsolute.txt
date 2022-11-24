@@ -1,0 +1,8 @@
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GANO-Hesaplama\GANO-Hesaplama\bin\Debug\GANO-Hesaplama.exe.config
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GANO-Hesaplama\GANO-Hesaplama\bin\Debug\GANO-Hesaplama.exe
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GANO-Hesaplama\GANO-Hesaplama\bin\Debug\GANO-Hesaplama.pdb
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GANO-Hesaplama\GANO-Hesaplama\obj\Debug\GANO-Hesaplama.csproj.AssemblyReference.cache
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GANO-Hesaplama\GANO-Hesaplama\obj\Debug\GANO-Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GANO-Hesaplama\GANO-Hesaplama\obj\Debug\GANO-Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GANO-Hesaplama\GANO-Hesaplama\obj\Debug\GANO-Hesaplama.exe
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GANO-Hesaplama\GANO-Hesaplama\obj\Debug\GANO-Hesaplama.pdb
